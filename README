@@ -1,0 +1,21 @@
+Alarma para puerta con Arduino
+
+En el presente proyecto se desarrolo la simulacion de una alarma de puerta,
+la cual al momento de poner un iman en contacto con el interrupto el arduino
+entra en modo de invernacion(Sleep), en el cual el consumo de energia se reduce, 
+al momento de que el interruptor ya no detecta el iman, un led y un buzzer se
+accionan y al arduino despierta, es cuando la puerta se abre y se acciona la alarma
+
+Materiales:
+
+-1 REED SWITCH
+
+-1 IMAN
+
+-1 BUZZER
+
+-1 LED
+
+-ARDUINO UNO
+
+-PROTOBOARD 
